@@ -5,7 +5,9 @@ export const Card = styled.div`
   border: 2px solid ${(props) => props.theme.corborda};
   padding: 16px;
   border-radius: 10px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
   background-color: ${(props) => props.theme.cordefundo};
 
   &:hover {

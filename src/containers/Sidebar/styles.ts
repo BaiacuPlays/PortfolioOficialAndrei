@@ -3,7 +3,7 @@ import { P } from '../../components/Paragrafo/styles'
 
 export const Paragrafo2 = styled(P)`
   margin-top: 24px;
-  margin-bottom: 40px;
+  margin-bottom: 25px;
 `
 export const BotaoTema = styled.button`
   border-radius: 12px;
@@ -13,6 +13,7 @@ export const BotaoTema = styled.button`
   font-weight: bold;
   background-color: ${(props) => props.theme.corprincipal};
   cursor: pointer;
+  margin-left: 10px;
 `
 
 export const SidebarContainer = styled.div`
@@ -24,4 +25,9 @@ export const SidebarContainer = styled.div`
     margin-bottom: 40px;
     text-align: center;
   }
+`
+
+export const Links = styled.div`
+  display: inline-block;
+  padding: 0 10px 10px 10px;
 `

@@ -7,10 +7,10 @@ const Sobre = () => (
   <section>
     <Titulo fontSize={16}>Sobre mim</Titulo>
     <Paragrafo tipo="principal">
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione ea eos
-      reiciendis, recusandae, totam porro reprehenderit ducimus rerum tempore
-      exercitationem eligendi laudantium enim quae deleniti, maiores tempora
-      voluptatem accusantium aperiam!
+      Olá, me chamo Andrei Bonattto, tenho 19 anos e sou um desenvolvedor
+      frontend, atualmente apenas estudando e começando no mercado de trabalho.
+      Para contato, o número é 54 99677-7615, e o e-mail é
+      andreibonatto8@gmail.com.
     </Paragrafo>
     <GithubSecao>
       <img
