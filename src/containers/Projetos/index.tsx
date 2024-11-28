@@ -39,9 +39,9 @@ const Projetos = () => (
       </li>
       <li>
         <Projeto
-          url="https://projetolandingpageaniversario.vercel.app"
-          nome="Pagina de aniversario com timer"
-          descricao="Sistema de página de convite com timer em tempo real."
+          url="https://responsive-results-summary-card.vercel.app"
+          nome="Sumario de resultados responsivo"
+          descricao="Um card basico com informações de resultado e responsive ao mobile"
         />
       </li>
       <li>
@@ -67,16 +67,16 @@ const Projetos = () => (
       </li>
       <li>
         <Projeto
-          url="https://site-alltimelow.vercel.app"
-          nome="Pagina de produto (Album musical)"
-          descricao="Um projeto simples para a página de um produto para compra."
+          url="https://acordionfaq.vercel.app"
+          nome="Faq acordeão"
+          descricao="Sistema de faq em acordeão feito com html, css e javascript"
         />
       </li>
       <li>
         <Projeto
-          url="https://sparkgameshopprojetotres.vercel.app"
-          nome="Loja de games"
-          descricao="Um projeto simples com informações de uma loja fictícia"
+          url="https://projetosociallinks.vercel.app"
+          nome="Card social links"
+          descricao="Um cartão de apresentação simples com links para midias da pessoa"
         />
       </li>
     </Lista>
