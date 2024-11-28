@@ -46,9 +46,9 @@ const Projetos = () => (
       </li>
       <li>
         <Projeto
-          url="https://projeto4clonestardew.vercel.app"
-          nome="Stardew valley"
-          descricao="Uma página básica feita sobre o jogo stardew valley."
+          url="https://projeto-bento-grid.vercel.app"
+          nome="Bento Grid"
+          descricao="Website simples sem interações feito para treino de css e propriedades grid"
         />
       </li>
       <li>
